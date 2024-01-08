@@ -1,5 +1,5 @@
 
-##**Ring in the New Year with Joy!**##
+## **Ring in the New Year with Joy!**
 
 This festive landing page is crafted with HTML and CSS to celebrate the New Year in style. It's ready to spread cheer and invite visitors to join the excitement.
 
