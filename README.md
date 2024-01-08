@@ -6,14 +6,19 @@ This festive landing page is crafted with HTML and CSS to celebrate the New Year
 ## Get Started:
 
 Clone this repository:
-Bash
-git clone https://github.com/your-username/new-year-landing-page.git
-Use code with caution. Learn more
+
+```git clone https://github.com/your-username/new-year-landing-page.git
+```
+
 Navigate to the project directory:
-Bash
+
+```
 cd new-year-landing-page
+```
 Use code with caution. Learn more
 Open the index.html file in your web browser.
+
+
 ## Features:
 
 Eye-catching design: Capture attention with vibrant colors, festive imagery, and dynamic animations.
