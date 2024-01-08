@@ -308,6 +308,41 @@ header {
   line-height: 32px; /* 160% */
 }
 
+.sale_bottom {
+  display: flex;
+  justify-content: space-between;
+}
+
+.sale_bottom_left {
+  position: relative;
+}
+
+.sale_bottom_left > img {
+  position: absolute;
+  bottom: -34%;
+  width: 550px;
+  height: 508px;
+  margin-left: 146px;
+}
+
+.sale_bottom_right {
+  position: relative;
+}
+
+.sale {
+  position: absolute;
+  top: 15%;
+  left: -36%;
+}
+
+.sale_footer {
+  border-radius: 16px 0px 16px 16px;
+  background: #f00;
+  height: 220px;
+  margin-bottom: 120px;
+  margin-top: -4.5px;
+}
+
 .portfolio {
   margin-bottom: 100px;
 }
@@ -488,5 +523,5 @@ footer {
   font-style: normal;
   font-weight: 500;
   line-height: normal;
-  margin-top: 60px;
+  margin-top: 120px;
 }
