@@ -7,7 +7,8 @@ This festive landing page is crafted with HTML and CSS to celebrate the New Year
 
 Clone this repository:
 
-```git clone https://github.com/your-username/new-year-landing-page.git
+```
+git clone https://github.com/your-username/new-year-landing-page.git
 ```
 
 Navigate to the project directory:
