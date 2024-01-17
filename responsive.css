@@ -1,0 +1,141 @@
+@media screen and (max-width: 767px) {
+  .container {
+    width: 100%;
+  }
+  .header_text {
+    padding: 80px 0;
+  }
+  .header_text h3 {
+    font-size: 30px;
+  }
+  .header_text h2 {
+    font-size: 59px;
+    margin-top: 70px;
+  }
+  .promo_text > h1 {
+    font-size: 50px;
+  }
+  .promo_text > p {
+    font-size: 19px;
+  }
+  .promo_image > img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+  }
+  .promo {
+    margin-bottom: 60px;
+  }
+  .party {
+    height: auto;
+    width: 100%;
+  }
+  .party_text {
+    padding: 3rem;
+  }
+  .party_text > h1 {
+    font-size: 36px;
+    font-weight: 900;
+    line-height: normal;
+  }
+  .party_text > h2 {
+    margin-left: 0px;
+  }
+  .event {
+    padding: 2rem;
+  }
+  .event > p {
+    font-size: 30px;
+  }
+  .offer {
+    flex-direction: column;
+    gap: 1.5rem;
+  }
+
+  .offer_text,
+  .offer_image,
+  .offer_year {
+    width: 100%;
+  }
+
+  .footer_info {
+    flex-direction: column;
+    padding: 2rem;
+  }
+  .single_info > span {
+    font-size: 20px;
+  }
+  .footer_address > p,
+  .footer_email > p,
+  .footer_end > p {
+    font-size: 20px;
+  }
+  .footer_end > p {
+    margin-top: 40px;
+  }
+
+  .newsletter {
+    padding: 2rem;
+  }
+  .input_text {
+    width: 100%;
+    min-height: 50px;
+  }
+
+  .input_text > button {
+    font-size: 15px;
+  }
+  .portfolio {
+    padding: 1rem;
+    margin-bottom: 0px;
+  }
+  .portfolio_image > img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+  }
+  .newsletter > img {
+    margin-top: 3rem;
+  }
+  .sale_up {
+    padding: 1rem;
+  }
+  .sale_up > h1 > span {
+    font-size: 56px;
+  }
+  .sale_up > h1 {
+    font-size: 50px;
+  }
+
+  .sale_up > p {
+    font-size: 18px;
+  }
+
+  .offer {
+    flex-direction: column;
+    height: auto;
+    padding: 1rem;
+  }
+  .offer_text,
+  .offer_image,
+  .offer_year {
+    width: 100%;
+  }
+
+  .offer_image_img {
+    width: 100%;
+    height: auto;
+  }
+
+  .offer_image_img {
+    padding: 6px;
+    outline: 7px solid red;
+  }
+  .offer_year > h1 {
+    margin-top: 20px;
+  }
+  .sale_bottom,
+  .sale_footer {
+    display: none;
+  }
+}
